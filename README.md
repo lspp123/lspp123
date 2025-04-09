@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lspp123&label=Profile%20views&color=0e75b6&style=flat" alt="lspp123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lspp123" alt="lspp123" /></a> </p>
-
 - 🔭 I’m currently working on [my graduation project in the "Advanced Software Development 1" course](https://github.com/lspp123/Ptm_project)
 
 - 🌱 I’m currently learning **advanced software development, computer network, etc.**
