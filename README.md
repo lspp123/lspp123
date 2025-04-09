@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **spector.liram@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1huA4Hw7w7kYHxDiN1N5X45AMy4pfEvZc/view?usp=sharing](https://drive.google.com/file/d/1huA4Hw7w7kYHxDiN1N5X45AMy4pfEvZc/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/4e76jemy](https://tinyurl.com/4e76jemy)
 
 - ⚡ Fun fact: **I'm playing guitar!**
 
