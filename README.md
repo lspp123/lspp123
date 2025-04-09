@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liram Spector</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lspp123&label=Profile%20views&color=0e75b6&style=flat" alt="lspp123" /> </p>
-
 - 🔭 I’m currently working on [my graduation project in the "Advanced Software Development 1" course](https://github.com/lspp123/Ptm_project)
 
 - 🌱 I’m currently learning **advanced software development, computer network, etc.**
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/lsp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lsp123" height="30" width="40" /></a>
+<a href="https://dev.to/lsp123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lsp123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/liramspector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/liramspector" height="30" width="40" /></a>
 </p>
 
